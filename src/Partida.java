@@ -5,7 +5,6 @@ import java.io.*;
 import java.util.Scanner;
 
 //prueba de github
-//otra prueba de github
 
 /**
  * Clase principal de inicio del juego
